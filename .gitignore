@@ -4,3 +4,5 @@
 *.egg-info
 image_cache/
 output/
+evaluation_artifacts/
+__pycache__/
